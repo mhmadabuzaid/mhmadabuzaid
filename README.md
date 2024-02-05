@@ -1,4 +1,24 @@
 # 💫 About Me:
+# 🚀 DevOps Skills:
+I recently completed intensive DevOps training, focusing on key practices and tools in the DevOps pipeline. Here are some of the specific areas and technologies I worked with:
+
+- **Continuous Integration/Continuous Deployment (CI/CD):**
+  - Implemented CI/CD pipelines using GitLab CI/CD, automating the build, test, and deployment processes.
+
+- **Containerization and Orchestration:**
+  - Utilized Docker for containerization, creating isolated and reproducible environments for applications.
+  - Worked with Kubernetes for container orchestration, managing containerized applications and scaling them seamlessly.
+
+- **Web Server and Application Server:**
+  - Configured and managed Apache Tomcat 8 as an application server, ensuring efficient deployment and operation of Java applications.
+
+- **Build Automation:**
+  - Implemented build automation using Apache Maven, simplifying the build process and project management.
+
+- **Version Control:**
+  - Leveraged Git for version control, ensuring collaborative and organized development workflows.
+
+
 I am a fresh full-stack MERN stack developer with a strong passion for building innovative and user-friendly web applications. I have a strong foundation in the fundamentals of web development, as well as the MERN stack technologies. I am also a quick learner and I am eager to grow and develop my skills.<br><br>I am seeking a job where I can use my skills and knowledge to contribute to the development of high-quality web applications. I am a team player and I am confident that I can be a valuable asset to any team.
 
 
