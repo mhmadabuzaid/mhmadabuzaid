@@ -19,7 +19,7 @@ I recently completed intensive DevOps training at Progressoft, focusing on key p
   - Leveraged Git at Progressoft for version control, ensuring collaborative and organized development workflows.
 ____________________________________________________________________________________________________________________________________________________
 
-I am a fresh full-stack MERN stack developer with a strong passion for building innovative and user-friendly web applications. I have a strong foundation in the fundamentals of web development, as well as the MERN stack technologies. I am also a quick learner and I am eager to grow and develop my skills.<br><br>I am seeking a job where I can use my skills and knowledge to contribute to the development of high-quality web applications. I am a team player and I am confident that I can be a valuable asset to any team.
+I am a full-stack MERN stack developer with a strong passion for building innovative and user-friendly web applications. I have a strong foundation in the fundamentals of web development, as well as the MERN stack technologies. I am also a quick learner and I am eager to grow and develop my skills.<br><br>I am seeking a job where I can use my skills and knowledge to contribute to the development of high-quality web applications. I am a team player and I am confident that I can be a valuable asset to any team.
 
 
 ## 🌐 Socials:
