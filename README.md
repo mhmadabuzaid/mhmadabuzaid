@@ -10,7 +10,7 @@ I am a quick learner eager to continue growing within the Flutter ecosystem. Cur
 * **Mobile Development:** Expert in Dart & Flutter for cross-platform apps.
 * **State Management:** Proficient with Riverpod, Provider, and Bloc.
 * **Backend Integration:** Experienced with Supabase, Firebase, and RESTful APIs.
-* **UI/UX:** Skilled in implementing complex UI designs (Glassmorphism, Custom Animations).
+* **UI/UX:** Skilled in implementing complex UI designs.
 
 ---
 
